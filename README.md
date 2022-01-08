@@ -31,7 +31,7 @@ LASSO Regression<br />
 Neural Networks<br />
 
 
-Scope/Importance o Project:<br />
+Scope/Importance of Project:<br />
 There are no study done in India in relation to importance of metabolic obesity and BMI status with severity of Coronary artery disease.<br />
 Helpful to find how the Insulin resistance, hsCRP and Lp(a) is associated with the severity of Coronary artery disease.<br />
 Effect of Lifestyle modification on Body Mass Index and Waist Circumference in post angioplasty patients.<br />
